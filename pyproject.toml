@@ -10,3 +10,7 @@ dependencies = [
     "openai>=2.8.1",
 ]
 
+[[tool.uv.index]]
+url = "http://mirrors.aliyun.com/pypi/simple/"
+default = true
+
